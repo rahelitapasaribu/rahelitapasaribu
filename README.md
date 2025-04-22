@@ -27,7 +27,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahelitapasaribu&show_icons=true&theme=tokyonight" alt="Rahel's GitHub stats\n"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=rahelitapasaribu&show_icons=true&theme=tokyonight" alt="Rahel's GitHub stats"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahelitapasaribu&layout=compact&theme=tokyonight"/>
 </p>
 
