@@ -33,8 +33,8 @@
 
 ---
 
-### 🌸 Currently Watching
-> 🎬 **Resident Playbook** – just like coding, it's all about timing and trust 💕
+### 🌸 Immersed in tales that challenge and change  
+> 🎬 **Resident Playbook** – where medicine and humanity are beautifully intertwined 🌺
 
 ---
 
