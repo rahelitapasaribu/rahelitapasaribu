@@ -28,11 +28,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahelitapasaribu&show_icons=true&theme=tokyonight" alt="Rahel's GitHub stats"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahelitapasaribu&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
+### Most Used Languages
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahelitapasaribu&layout=compact&theme=tokyonight"/>
+</p>
+
+---
 ### 🌸 Immersed in tales that challenge and change  
 > 🎬 **Resident Playbook** – where medicine and humanity are beautifully intertwined 🌺
 
