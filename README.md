@@ -9,7 +9,7 @@
 
 ✨ “In a world full of bugs, be someone’s debugger.” ✨
 
-🌻 I'm an Informatics student at Udayana University, passionate about coding, design, and writing better code every day (with a cup of iced Americano like in every K-Drama ☕).
+🌻 I'm an Informatics student at Udayana University, passionate about data, coding, design, and trying to write better code every day (with a cup of iced Americano like in every K-Drama ☕).
 
 ---
 
