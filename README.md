@@ -1,4 +1,4 @@
-<h1 align="center">🌸 안녕하세요, I'm Rahel 🌸</h1>
+<h1 align="center"><img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"/> 안녕하세요, I'm Rahel</h1>
 <h3 align="center">A tech enthusiast living in a K-Drama world 💻🎬</h3>
 
 <p align="center">
