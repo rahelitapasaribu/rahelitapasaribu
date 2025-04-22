@@ -38,8 +38,7 @@
 </p>
 
 ---
-### 🌸 Immersed in tales that challenge and change  
-> 🎬 **Resident Playbook** – where medicine and humanity are beautifully intertwined 🌺
+> "It feels like I'm stuck but I don't know how to get out. That's probably why I hope everything ends all at once. I'm not unhappy but I'm not happy either." - My Liberation Notes 🎬
 
 ---
 
