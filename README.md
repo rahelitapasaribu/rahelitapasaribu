@@ -2,7 +2,7 @@
 <h3 align="center">A tech enthusiast living in a K-Drama world 💻🎬</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SVfXyGblF9pK4hH8K8/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="300px">
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 ### 📫 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rahelitapasaribu)
-[![Email](https://img.shields.io/badge/email-pasariburahelita@email.com-red?style=flat&logo=gmail&labelColor=red)](mailto:pasariburahelita@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rahelpsrb_)
 
 ---
 
