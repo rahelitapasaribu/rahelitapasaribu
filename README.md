@@ -9,7 +9,7 @@
 
 ✨ “In a world full of bugs, be someone’s debugger.” ✨
 
-🌻 I'm an Informatics student at Udayana University, passionate about data, coding, design, and trying to write better code every day (with a cup of iced Americano like in every K-Drama ☕).
+🌻 I'm an Informatics student at Udayana University, passionate about data, coding, and design — learning, creating, and coding with a touch of K-Drama vibes 🌙
 
 ---
 
@@ -35,6 +35,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahelitapasaribu&show_icons=true&theme=tokyonight" alt="Rahel's GitHub stats"/> 
 </p>
+
+---
+
+### 🏆 Github Trophy
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahelitapasaribu" alt="rahelitapasaribu" /></a> </p>
 
 ---
 
