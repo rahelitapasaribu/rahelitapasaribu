@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://slackmojis.com/emojis/120082-groovin/download" width="30"/> 안녕하세요, I'm Rahel</h1>
+<h1 align="center"><img src="https://slackmojis.com/emojis/120082-groovin/download" width="30"/> 안녕하세요, It's Rahel</h1>
 <h3 align="center">A tech enthusiast living in a K-Drama world 💻🎬</h3>
 
 <p align="center">
