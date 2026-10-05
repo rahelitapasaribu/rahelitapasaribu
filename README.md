@@ -41,8 +41,7 @@
 ### 🏆 GitHub Trophy
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahelitapasaribu&theme=monokai" alt="GitHub Trophies" />
+
   </a>
 </p>
 
@@ -58,7 +57,7 @@
 ### 📅 GitHub Activity
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+
 </p>
 
 ---
