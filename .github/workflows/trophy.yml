@@ -1,4 +1,4 @@
-name: GitHub Metrics
+name: Generate GitHub Trophy
 
 on:
   schedule:
@@ -6,22 +6,39 @@ on:
   workflow_dispatch:
 
 jobs:
-  github-metrics:
+  trophy:
     runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
     steps:
-      - name: Generate GitHub Metrics
-        uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Trophy
+        uses: ryo-ma/github-profile-trophy@master
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          username: rahelitapasaribu
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: monokai
 
-          user: rahelitapasaribu
+      - name: Check generated file
+        run: |
+          ls -lah
+          file trophy.svg
 
-          template: classic
-          base: header, activity, community, repositories, metadata
+      - name: Commit Trophy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          git add trophy.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update GitHub Trophy"
+            git push origin HEAD:main
+          fi
