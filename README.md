@@ -40,10 +40,7 @@
 
 ### 🏆 GitHub Trophy
 
-<p align="center">
-
-  </a>
-</p>
+<p align="center"> <img src="./trophy.svg" alt="GitHub Trophies" /> </p>
 
 ---
 
@@ -56,9 +53,7 @@
 
 ### 📅 GitHub Activity
 
-<p align="center">
-
-</p>
+<p align="center"> <img src="./github-metrics.svg" alt="GitHub Isometric Commit Calendar" /> </p>
 
 ---
 > "It feels like I'm stuck but I don't know how to get out. That's probably why I hope everything ends all at once. I'm not unhappy but I'm not happy either." - My Liberation Notes 🎬
