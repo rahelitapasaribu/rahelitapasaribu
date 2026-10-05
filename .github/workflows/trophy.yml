@@ -1,5 +1,33 @@
-📅 Full Year Isometric Calendar
-[calendar]
+name: Generate GitHub Trophy
 
-🏆 GitHub Trophy
-[trophy]
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Trophy
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: rahelitapasaribu
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: monokai
+
+      - name: Commit Trophy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git diff --cached --quiet || git commit -m "Update GitHub Trophy"
+          git push
