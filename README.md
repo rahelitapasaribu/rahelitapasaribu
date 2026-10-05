@@ -40,13 +40,25 @@
 
 ### 🏆 GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahelitapasaribu" />
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahelitapasaribu&theme=monokai" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
 ### 👩‍💻 Most Used Languages
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahelitapasaribu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📅 GitHub Activity
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
