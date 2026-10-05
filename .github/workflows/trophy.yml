@@ -16,25 +16,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Prepare output
+        run: |
+          rm -rf trophy.svg
+          mkdir -p assets
+          rm -rf assets/trophy.svg
+
       - name: Generate Trophy
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: rahelitapasaribu
-          output_path: trophy.svg
+          output_path: assets/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: monokai
 
       - name: Check generated file
         run: |
-          ls -lah
-          file trophy.svg
+          ls -lah assets
+          file assets/trophy.svg
 
       - name: Commit Trophy
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add trophy.svg
+          git add assets/trophy.svg
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
